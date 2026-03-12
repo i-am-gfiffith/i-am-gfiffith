@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on basics<br>👯 I’m looking to collaborate on web3<br>🤝 I’m looking for help with solana<br>🌱 I’m currently learning how everything works behind the space<br>💬 Ask me about gaming <br>⚡ Fun fact is that i can breathe
+🔭 I’m currently working on basics<br>👯 I’m looking to collaborate on web3<br>🤝 I’m looking for help with solana<br>🌱 I’m currently learning how everything works behind the space<br>💬 Ask me about gaming <br>⚡ Fun fact is that i can breathe.
+
 ![Uploading MP.gif…]()
 ## 🌐 Socials:
 
