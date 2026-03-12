@@ -1,6 +1,5 @@
 # 💫 About Me:
 🔭 I’m currently working on basics<br>👯 I’m looking to collaborate on web3<br>🤝 I’m looking for help with solana<br>🌱 I’m currently learning how everything works behind the space<br>💬 Ask me about gaming <br>⚡ Fun fact is that i can breathe
-https://i.pinimg.com/originals/74/af/94/74af94bb122a203f3584194fe62fd9e3.gif
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_irretrievable_homosepian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-mishra) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/i_am_guts__) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/i_am_guts_from_berserk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@i_am_guts___) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anmolmishra2306@gmail.com) 
